@@ -28,7 +28,7 @@ yarn install
 
 * Organizando los componentes dentro de un proyecto
   * **ui kit**: Componentes relaccionados con etiquetas HTML (input, dropdown, button, etc...)
-  * **core**: componente que se reutilizados en varias vistas (Header, Footer, Search)
+  * **core**: componentes que son reutilizados en varias vistas (Header, Footer, Search)
   * **views**: Están formados por componentes ui-kit, core o sus propias vistas (Home, Contacto, Programación) 
   * containers: manejan la lógica de la aplicación y contienen las vistas. 
  
@@ -52,7 +52,7 @@ _Ejercicios para aprender a crear componentes funcionales y manejar las props en
 
 * Depuración
 
-_Ejercicios para aprender a crear componentes funcionales y manejar las props en el render_
+_Ejercicios para aprender a manejar estilos con styled components_
 
 * #### 🔩 Ejercicio: Crear estilos globales (createGlobalStyle y normalize)
 
