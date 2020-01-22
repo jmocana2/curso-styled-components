@@ -34,9 +34,9 @@ yarn install
  
 _Ejercicios para aprender a crear componentes funcionales y manejar las props en el render_
 
-## 🔩 Ejercicio: Crear un componente Input y un Textarea (manejo de props en el render) 
+#### 🔩 Ejercicio: Crear un componente Input y un Textarea (manejo de props en el render) 
 
-## 🔩 Ejercicio: Crear un componente Buscador que pueda además tener un comportamiento específico destacado
+#### 🔩 Ejercicio: Crear un componente Buscador que pueda además tener un comportamiento específico destacado
 
 * Proptypes
 
@@ -54,17 +54,17 @@ _Ejercicios para aprender a crear componentes funcionales y manejar las props en
 
 _Ejercicios para aprender a crear componentes funcionales y manejar las props en el render_
 
-* ## 🔩 Ejercicio: Crear estilos globales (createGlobalStyle y normalize)
+* #### 🔩 Ejercicio: Crear estilos globales (createGlobalStyle y normalize)
 
-* ## 🔩 Ejercicio: Dar estilos al buscador (como aplicar estilos con Styled Components)
+* #### 🔩 Ejercicio: Dar estilos al buscador (como aplicar estilos con Styled Components)
 
-* ## 🔩 Ejercicio: Dar estilos al buscador destacado (manejo de props en los estilos)
+* #### 🔩 Ejercicio: Dar estilos al buscador destacado (manejo de props en los estilos)
 
-* ## 🔩 Ejercicio: Crear un nuevo buscador a partir del buscador por defecto y aplicar nuevos estilos concretos (extendiendo estilos).
+* #### 🔩 Ejercicio: Crear un nuevo buscador a partir del buscador por defecto y aplicar nuevos estilos concretos (extendiendo estilos).
 
-* ## 🔩 Ejercicio: Al hacer hover sobre el botón del buscador el icono lupa debe cambiar de color (hacer referencia a otros componentes)
+* #### 🔩 Ejercicio: Al hacer hover sobre el botón del buscador el icono lupa debe cambiar de color (hacer referencia a otros componentes)
 
-* ## 🔩 Ejercicio: Crear una animación al hacer hover sobre el botón (animaciones en styled components)
+* #### 🔩 Ejercicio: Crear una animación al hacer hover sobre el botón (animaciones en styled components)
  
 ## urls de referencia 🛠️
 
